@@ -1,0 +1,1 @@
+This is an assignment for The Odin Project in the Foundations Path. I am supposed to recreate the Google Homepage (does not have to have search functionality or working links, but is more of a layout practice exercise).
